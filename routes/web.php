@@ -3,16 +3,6 @@
 use App\Http\Controllers\Auth\BlogController;
 use Illuminate\Support\Facades\Route;
 
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider within a group which
-| contains the "web" middleware group. Now create something great!
-|
-*/
 
 Route::get('/', function () {
     return view('welcome');
@@ -63,6 +53,17 @@ Route::get('lithotherapi', [BlogController::class, 'lithotherapi'])->name('lithe
 Route::get('/propos', [BlogController::class, 'propos'])->name('propos');
 Route::get('livestream', [BlogController::class, 'livestream'])->name('livestream');
 Route::get('plans', [BlogController::class, 'plans'])->name('plans');
+
+Route::get('changement', [BlogController::class, 'changement'])->name('changement');
+Route::get('watch', [BlogController::class, 'watch'])->name('watch');
+Route::get('background', [BlogController::class, 'background'])->name('background');
+Route::get('vibratory', [BlogController::class, 'vibratory'])->name('vibratory');
+Route::get('plumes', [BlogController::class, 'plumes'])->name('plumes');
+
+
+
+
+
 
 
 

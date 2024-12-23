@@ -1,11 +1,10 @@
 @extends('layouts.website')
 
 @section('content')
-    <div style="background-color: rgb(250, 248, 247)">
+    <main style="background-color: rgb(250, 248, 247); padding-top: 400px">
         <div class="container mt-5">
             <div class="text-center">
                 <h1>What is awakening? : many wonder about this</h1>
-
                 <p class="fs-5 mt-4">I'm going to talk to you a little bit about what awakening is, or what it isn't.<br>
                     Many people wonder about this (rightly or wrongly), and struggle to find even the beginnings of an
                     answer.<br>
@@ -237,17 +236,12 @@
                 <p class="fs-5 mt-4">Accept that Nature is incomprehensible, because beyond<br>
                     the intellect, and let it happen. Simply follow it, live it.</p>
 
-                <p class="fs-5">
+                <p class="fs-5 pb-5">
                     Awakening is non-dual, it is beyond the manifestation of experience.<br>
 
                     Awakening is so simple that it is impossible for us to understand it.
-
-
-
                 </p>
             </div>
-
-
         </div>
-    </div>
+    </main>
 @endsection

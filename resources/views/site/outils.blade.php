@@ -8,9 +8,9 @@
 
 
 @section('content')
-    <div style="background-color: rgb(250, 248, 247)">
+    <div style="background-color: rgb(250, 248, 247); padding-top: 400px">
         <div class="container">
-            <div class="row mt-5">
+            <div class="row mt-5 ">
                 <div class="col-sm-10 text-center mt-5">
                     <h6 class="fs-1">Divinatory tools
                     </h6>

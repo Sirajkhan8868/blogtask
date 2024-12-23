@@ -148,7 +148,25 @@ class BlogController extends Controller
     {
         return view('site.plans');
     }
-
-
+    public function changement()
+    {
+        return view('site.changement');
+    }
+    public function watch()
+    {
+        return view('site.watch');
+    }
+    public function background()
+    {
+        return view('site.background');
+    }
+    public function vibratory()
+    {
+        return view('site.vibratory');
+    }
+    public function plumes()
+    {
+        return view('site.plumes');
+    }
 
 }

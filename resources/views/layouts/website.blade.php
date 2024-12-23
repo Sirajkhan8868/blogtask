@@ -380,9 +380,7 @@
 --wix-font-STRONG-line-height: 1.4em;
 --wix-font-STRONG-family: HelveticaNeueW01-65Medi;
 --wix-font-STRONG-text-decoration: none;
-		}
-
-
+}
 
 .comp-j4mrllx8 .ETC5zb{--cartWidget_cartIcon: #A34A21;--cartWidget_cartIconText: #A34A21;--cartWidget_cartIconTextFont: normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,sans-serif;--cartWidget_cartIconNumberFont: normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,sans-serif;--cartWidget_cartIconBubble: #A34A21}.comp-j4mrllx8 .s1dvzA rect,.comp-j4mrllx8 .s1dvzA polygon,.comp-j4mrllx8 .s1dvzA polyline,.comp-j4mrllx8 .s1dvzA circle,.comp-j4mrllx8 .s1dvzA path{fill:#F8F4F1}.comp-j4mrllx8 .s1dvzA text{fill:#A34A21;font:normal normal normal 17px/1.4em avenir-lt-w01_35-light1475496,sans-serif;font-size:90px}.comp-j4mrllx8 .s1dvzA .uxskpx{fill:rgb(48, 29, 16);font:normal normal normal 17px/1.4em "palatino linotype",serif;font-size:90px}.comp-j4mrllx8 .s1dvzA .uxskpx.M846Y_{fill:rgb(48, 29, 16)}.comp-j4mrllx8 .s1dvzA .ptVJi9{fill:rgb(198, 195, 193)}#PAGES_CONTAINER{left:0;margin-left:0;width:100%;min-width:0;}#SITE_PAGES{left:0;margin-left:0;width:100%;min-width:0;}#SITE_PAGES{--transition-duration:0ms;}#CONTROLLER_COMP_CUSTOM_ID{--bgh:43,104,156;--rd:20px;--txth:255,255,255;--alpha-bg:1;--bg:61,155,233;--txt:255,255,255;--brw:0px;--fnt:normal normal normal 14px/1.4em raleway;--brd:43,104,156;--brdh:61,155,233;--alpha-bgh:1;--alpha-brd:1;--alpha-brdh:1;--alpha-txt:1;--alpha-txth:1;--boxShadowToggleOn-shd:none;--shd:0 1px 4px rgba(0, 0, 0, 0.6);}#SOSP_CONTAINER_CUSTOM_ID{--brw:0px;--brd:var(--color_15);--bg:var(--color_11);--rd:0px;--shd:none;--gradient:none;--alpha-bg:1;--alpha-brd:1;--boxShadowToggleOn-shd:none;--bg-gradient:none;}#SOSP_CONTAINER_CUSTOM_ID{width:291px;}[data-mode=hover] #SOSP_CONTAINER_CUSTOM_ID{width:291px;}[data-mesh-id=SOSP_CONTAINER_CUSTOM_IDinlineContent]{height:auto;width:291px;}[data-mesh-id=SOSP_CONTAINER_CUSTOM_IDinlineContent-gridContainer]{position:static;display:grid;height:auto;width:100%;min-height:auto;grid-template-rows:min-content 1fr;grid-template-columns:100%;}[data-mesh-id=SOSP_CONTAINER_CUSTOM_IDinlineContent-gridContainer] > [id="comp-jymq6wke"]{position:relative;margin:60px 0px 32px 0;left:20px;grid-area:1 / 1 / 2 / 2;justify-self:start;align-self:start;}[data-mesh-id=SOSP_CONTAINER_CUSTOM_IDinlineContent-gridContainer] > [id="comp-jymq6vph"]{position:relative;margin:0px 0px 1px 0;left:20px;grid-area:2 / 1 / 3 / 2;justify-self:start;align-self:start;}#SOSP_CONTAINER_CUSTOM_ID{--shc-mutated-brightness:124,122,121;}#comp-jymq6wke{width:250px;height:257px;}.comp-jymq6wke {
 				--wix-direction: ltr;
@@ -768,7 +766,7 @@
 
 <div id="SITE_CONTAINER"><div id="main_MF" class="main_MF"><div id="SCROLL_TO_TOP" class="Vd6aQZ ignore-focus SCROLL_TO_TOP" tabindex="-1" role="region" aria-label="top of page"><span class="mHZSwn">top of page</span></div><div id="BACKGROUND_GROUP" class="BACKGROUND_GROUP"><div id="pageBackground_c1dmp" data-media-height-override-type="" data-media-position-override="false" class="pageBackground_c1dmp BmZ5pC"><div id="bgLayers_pageBackground_c1dmp" data-hook="bgLayers" data-motion-part="BG_LAYER pageBackground_c1dmp" class="MW5IWV"><div data-testid="colorUnderlay" class="LWbAav Kv1aVt"></div><div id="bgMedia_pageBackground_c1dmp" data-motion-part="BG_MEDIA pageBackground_c1dmp" class="VgO9Yg"><wow-image id="img_pageBackground_c1dmp" class="HlRz5e Kv1aVt dLPlxY mNGsUM bgImage" data-image-info="{&quot;containerId&quot;:&quot;pageBackground_c1dmp&quot;,&quot;alignType&quot;:&quot;center&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;targetWidth&quot;:1920,&quot;targetHeight&quot;:1920,&quot;isLQIP&quot;:true,&quot;encoding&quot;:&quot;AVIF&quot;,&quot;imageData&quot;:{&quot;width&quot;:800,&quot;height&quot;:532,&quot;uri&quot;:&quot;1bba6e_12a7aaf54a334a3c8691486f6bfeb253~mv2.jpg&quot;,&quot;name&quot;:&quot;&quot;,&quot;displayMode&quot;:&quot;fill&quot;,&quot;hasAnimation&quot;:false}}" data-motion-part="BG_IMG pageBackground_c1dmp" data-bg-effect-name="" data-has-ssr-src="true"><img src="https://static.wixstatic.com/media/1bba6e_12a7aaf54a334a3c8691486f6bfeb253~mv2.jpg/v1/fill/w_288,h_192,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/1bba6e_12a7aaf54a334a3c8691486f6bfeb253~mv2.jpg" alt="" style="width:100%;height:100%;object-fit:cover;object-position:50% 50%" width="1920" height="1920"/></wow-image></div></div></div></div><div id="site-root" class="site-root"><div id="masterPage" class="mesh-layout remove-wrappers masterPage css-editing-scope">
 
-<header class="bg-white ">
+<header class="bg-white" style="position: fixed; top: 0; width: 100%; z-index: 1000;">
     <nav class="navbar navbar-expand-lg navbar-light ">
         <div class="container-fluid">
             <div class="row w-100 align-items-center justify-content-between bg-pink">
@@ -786,7 +784,7 @@
                             <li class="nav-item dropdown fs-6 py-2 px-4"
                            onmouseover="this.classList.add('show'); this.querySelector('.dropdown-menu').classList.add('show');"
                           onmouseout="this.classList.remove('show'); this.querySelector('.dropdown-menu').classList.remove('show');">
-                         <a class="nav-link dropdown-toggle" href="{{ url('/') }}" id="navbarDropdown1" aria-expanded="false">
+                         <a class="nav-link dropdown-toggle " href="{{ url('/') }}" id="navbarDropdown1" aria-expanded="false" >
                             Accueil
                             </a>
                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
@@ -798,36 +796,36 @@
                          <li><a class="dropdown-item" href="{{ route('props') }}">A propos</a></li>
                             <li><a class="dropdown-item" href="{{ route('politique') }}">Politique de confidentialité</a></li>
                              </ul>
-                       </li>
+                         </li>
 
-                        <li class="nav-item dropdown fs-6 py-2 px-4"
-                        onmouseover="this.classList.add('show'); this.querySelector('.dropdown-menu').classList.add('show');"
-                        onmouseout="this.classList.remove('show'); this.querySelector('.dropdown-menu').classList.remove('show');">
-                        <a class="nav-link dropdown-toggle" href="{{ route('lithotherapie') }}" id="navbarDropdown1" data-bs-toggle="dropdown" aria-expanded="false"
+                         <li class="nav-item dropdown fs-6 py-2 px-4"
+                         onmouseover="this.classList.add('show'); this.querySelector('.dropdown-menu').classList.add('show');"
+                         onmouseout="this.classList.remove('show'); this.querySelector('.dropdown-menu').classList.remove('show');">
+                         <a class="nav-link dropdown-toggle" href="{{ route('lithotherapie') }}" id="navbarDropdown1" data-bs-toggle="dropdown" aria-expanded="false"
                            onclick="window.location='{{ route('lithotherapie') }}';">
                             Lithotherapie
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
+                         </a>
+                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown1">
                             <li><a class="dropdown-item" href="{{ route('reservation') }}">Reservation en ligne</a></li>
                             <li><a class="dropdown-item" href="{{ route('boutique') }}">Boutique</a></li>
-                        </ul>
-                    </li>
+                         </ul>
+                         </li>
 
 
-                    <li class="nav-item dropdown fs-6 py-2 px-4"
-                    onmouseover="this.classList.add('show'); this.querySelector('.dropdown-menu').classList.add('show');"
-                    onmouseout="this.classList.remove('show'); this.querySelector('.dropdown-menu').classList.remove('show');">
-                    <a class="nav-link dropdown-toggle" href="{{ route('leveil') }}" id="navbarDropdown2" data-bs-toggle="dropdown" aria-expanded="false"
-                       onclick="window.location='{{ route('leveil') }}';">
-                        Leveil Spirituel
-                    </a>
-                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
-                        <li><a class="dropdown-item" href="{{ route('empathe') }}">Empathe</a></li>
+                         <li class="nav-item dropdown fs-6 py-2 px-4"
+                         onmouseover="this.classList.add('show'); this.querySelector('.dropdown-menu').classList.add('show');"
+                         onmouseout="this.classList.remove('show'); this.querySelector('.dropdown-menu').classList.remove('show');">
+                          <a class="nav-link dropdown-toggle" href="{{ route('leveil') }}" id="navbarDropdown2" data-bs-toggle="dropdown" aria-expanded="false"
+                         onclick="window.location='{{ route('leveil') }}';">
+                         Leveil Spirituel
+                         </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown2">
+                               <li><a class="dropdown-item" href="{{ route('empathe') }}">Empathe</a></li>
                         <li><a class="dropdown-item" href="{{ route('medium') }}">Medium</a></li>
                         <li><a class="dropdown-item" href="{{ route('voyante') }}">Voyante</a></li>
                         <li><a class="dropdown-item" href="{{ route('guerisseur') }}">Guerisseur</a></li>
                         <li><a class="dropdown-item" href="{{ route('chamane') }}">Chamane</a></li>
-                    </ul>
+                          </ul>
                 </li>
 
 
@@ -892,12 +890,29 @@
         <p class="fs-1">What if the universe had a way <br> to communicate...</p>
     </div>
 
-   <div class="d-flex justify-content-center pb-5">
-     <a href="https://www.tiktok.com"> <img src="{{ asset('assets/site/image/tiktok.avif') }}" alt="" ></a>
-      <a href="https://www.facebook.com"><img src="{{ asset('assets/site/image/facebook.avif') }}" alt=""></a>
-      <img src="{{ asset('assets/site/image/tiktok.avif') }}" alt="" >
-      <img src="{{ asset('assets/site/image/facebook.avif') }}" alt="">
-   </div>
+    <div class="d-flex justify-content-center align-items-center pb-5 pt-2">
+        <a href="https://www.tiktok.com" class="px-4">
+            <img src="{{ asset('assets/site/image/tiktok.avif') }}" alt="">
+        </a>
+        <a href="https://www.facebook.com" class="px-4">
+            <img src="{{ asset('assets/site/image/facebook.avif') }}" alt="">
+        </a>
+        <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle"  data-bs-toggle="dropdown" aria-expanded="false">
+              English
+            </button>
+            <div class="dropdown-menu">
+              <li><a class="dropdown-item active" href="#">Francis</a></li>
+            </div>
+          </div>
+        <a href="https://www.tiktok.com" class="px-4">
+            <img src="{{ asset('assets/site/image/tiktok.avif') }}" alt="">
+        </a>
+        <a href="https://www.facebook.com" class="px-4">
+            <img src="{{ asset('assets/site/image/facebook.avif') }}" alt="">
+        </a>
+    </div>
+
 
 </header>
 
