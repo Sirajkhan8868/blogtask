@@ -50,10 +50,10 @@
     <div class="container d-flex justify-content-center align-items-center vh-100">
         <div class="content" id="carousel">
             <span style="--i:1;"><a href="{{ route('changement') }}"><img src="{{ asset('assets/site/image/image1.jpg') }}" alt=""></a></span>
-            <span style="--i:2;"><a href=""><img src="{{ asset('assets/site/image/image2.png') }}" alt=""></a></span>
-            <span style="--i:3;"><a href=""><img src="{{ asset('assets/site/image/image3.gif') }}" alt=""></a></span>
+            <span style="--i:2;"><a href="{{ route('watch') }}"><img src="{{ asset('assets/site/image/image2.png') }}" alt=""></a></span>
+            <span style="--i:3;"><a href="{{ route('background') }}"><img src="{{ asset('assets/site/image/image3.gif') }}" alt=""></a></span>
             <span style="--i:4;"><a href=""><img src="{{ asset('assets/site/image/image4.gif') }}" alt=""></a></span>
-            <span style="--i:5;"><a href=""><img src="{{ asset('assets/site/image/image5.gif') }}" alt=""></a></span>
+            <span style="--i:5;"><a href="{{ route('plumes') }}"><img src="{{ asset('assets/site/image/image5.gif') }}" alt=""></a></span>
         </div>
     </div>
 </main>
